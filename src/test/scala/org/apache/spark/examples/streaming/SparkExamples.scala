@@ -2,7 +2,7 @@ package org.apache.spark.examples.streaming
 import org.apache.spark.sql.SparkSession
 import com.google.common.collect.Table
 import org.apache.hadoop.yarn.webapp.hamlet.HamletSpec.SELECT
-import org.apache.s
+import org.apache.
 import org.apache.spark.sql.{Row, SQLContext, SparkSession, functions}
 import org.apache.spark.sql.functions.{col, count, lit, struct, when}
 import org.apache.spark.{SparkConf, SparkContext}
